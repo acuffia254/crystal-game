@@ -1,0 +1,42 @@
+body {
+  background-image: url("../images/bgimg01.jpg");
+  background-repeat: repeat;
+}
+
+p {
+  color: white;
+}
+
+.score {
+  background-color: #1da396;
+  height: 50px;
+  width: 250px;
+  margin: 20px;
+  padding: 20px;
+}
+
+ #rules {
+  color: green;
+}
+
+#div_header {
+  background-color: #cc7031;
+  width: 350px;
+  margin: 20px;
+  padding: 20px;
+}
+
+#div_header h1 {
+  color: white;
+}
+
+#div_instructions {
+  background-color: #fed;
+  width: 450px;
+  margin: 20px;
+  padding: 20px;
+}
+
+#div_instructions p {
+  color: green;
+}
